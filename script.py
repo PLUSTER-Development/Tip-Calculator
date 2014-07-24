@@ -1,7 +1,11 @@
-#Code for the Tip Calculator
+#Put the price of the meal
+meal = 
+# convert the percent into a decimal
+tax = 
+# also convert the percent into a decimal
+tip =
 
-meal = 44.50 
-tax = 0.0675 
-tip = 0.15 
-meal = meal + meal * tax 
-total = meal + meal * tip print("%.2f" % total)
+meal = meal + meal * tax
+total = meal + meal * tip
+
+print("%.2f" % total)

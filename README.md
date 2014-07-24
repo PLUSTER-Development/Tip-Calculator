@@ -7,4 +7,4 @@ Idea: -PRO- Coding: -PRO- and AwesomenessExposed
 
 ALERTS
 ==============
-All comments are above what they are talking about
+All comments are above what they are talking about.
